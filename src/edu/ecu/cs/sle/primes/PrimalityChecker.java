@@ -7,7 +7,9 @@ import java.util.concurrent.BlockingQueue;
  * The PrimalityChecker class is used to check individual numbers to see if
  * they are prime.
  * 
- * @author Mark Hills
+ * @author Mark Hills - Original framework 
+ * 
+ * @author Patrick Rider - completed all implementation of program
  * @version 1.0
  */
 public class PrimalityChecker implements Runnable{

@@ -7,6 +7,14 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * The Primes class contains the main method and handles thread creation
+ * and thread monitoring. 
+ * 
+ * @author Patrick Rider
+ * @version 1.0
+ */
+
 public class Primes {
 
 	/** 

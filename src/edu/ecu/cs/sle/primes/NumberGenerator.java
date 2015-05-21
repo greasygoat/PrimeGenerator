@@ -6,7 +6,9 @@ import java.util.concurrent.BlockingQueue;
  * The NumberGenerator class is used to hand out numbers that will be checked
  * by other threads.
  * 
- * @author Mark Hills
+ * @author Mark Hills - Original framework 
+ * 
+ * @author Patrick Rider - completed all implementation of program
  * @version 1.0
  */
 public class NumberGenerator implements Runnable{

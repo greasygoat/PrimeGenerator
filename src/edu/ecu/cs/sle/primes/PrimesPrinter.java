@@ -7,7 +7,9 @@ import java.util.concurrent.TimeUnit;
 /**
  * The PrimesPrinter class is used to print prime numbers and add them into a result set.
  * 
- * @author Mark Hills
+ * * @author Mark Hills - Original framework 
+ * 
+ * @author Patrick Rider - completed all implementation of program
  * @version 1.0
  */
 public class PrimesPrinter implements Runnable{
